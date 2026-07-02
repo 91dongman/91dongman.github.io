@@ -51,13 +51,13 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://91dongman88.pages.dev',
+	'https://91dongman.github.io/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https://91dongman.net',
 	JumpPage,
-	'https://52crdh.com',
+	'https://91dongman.com',
 	
 ];
 var notices = [
