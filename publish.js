@@ -39,10 +39,10 @@ var emails = [
 var urls=[
 	'mvzdpcbk.cc/', 
 	'mvzdpcbk.cc/', 
-    'vvgpwjkwl.com/',
+    'wltwacqcy.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://mvzdpcbk.cc";
+var JumpPage="https://vvgpwjkwl.com";
 
 var newestUrls = [];
 
