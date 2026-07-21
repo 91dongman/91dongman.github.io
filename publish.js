@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+	'mvzdpcbk.cc/', 
+	'mvzdpcbk.cc/', 
+    'vvgpwjkwl.com/',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://mvzdpcbk.cc";
 
 var newestUrls = [];
 
@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://91dongman.net',
 	JumpPage,
-	'https://91dongman.com',
+	'https://dongmanwang.net',
 	
 ];
 var notices = [
