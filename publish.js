@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'mvzdpcbk.cc/', 
-	'mvzdpcbk.cc/', 
-    'wltwacqcy.cc/',
+	'dchstmro.cc/', 
+	'dchstmro.cc/', 
+    'dchstmro.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://vvgpwjkwl.com";
+var JumpPage="https://rteehztv.cc";
 
 var newestUrls = [];
 
