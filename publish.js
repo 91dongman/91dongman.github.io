@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'ritewaxm.cc/', 
-	'ritewaxm.cc/', 
-    'dchstmro.cc/',
+	'lvyleisea.cc',
+	'ritewaxm.cc',
+	'dchstmro.cc',
 ];                                                                                                                  
 
-var JumpPage="https://omyewnlyv.cc";
+var JumpPage="https://dongman2.net";
 
 var newestUrls = [];
 
