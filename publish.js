@@ -42,7 +42,7 @@ var urls=[
 	'dchstmro.cc',
 ];                                                                                                                  
 
-var JumpPage="https://dongman2.net";
+var JumpPage="https://dongman3.net";
 
 var newestUrls = [];
 
