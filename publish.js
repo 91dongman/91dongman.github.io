@@ -42,7 +42,7 @@ var urls=[
 	'mybrobhf.cc',
 ];                                                                                                                  
 
-var JumpPage="https://dongman3.net";
+var JumpPage="https://dongman4.net";
 
 var newestUrls = [];
 
