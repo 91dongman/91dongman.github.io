@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'85c3mlzod.cc',
 	'souzy1k9.cc',
 	'gi85t90m.com',
-	'lxmojgpg.cc',
 ];                                                                                                                  
 
 var JumpPage="https://dongman4.net";
