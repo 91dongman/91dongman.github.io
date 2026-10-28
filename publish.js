@@ -42,7 +42,7 @@ var urls=[
 	'gi85t90m.com',
 ];                                                                                                                  
 
-var JumpPage="https://dongman4.net";
+var JumpPage="https://dongman6.net";
 
 var newestUrls = [];
 
