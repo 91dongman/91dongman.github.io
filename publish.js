@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
+	'avehhizvm.cc',
 	'85c3mlzod.cc',
 	'souzy1k9.cc',
-	'gi85t90m.com',
 ];                                                                                                                  
 
-var JumpPage="https://dongman6.net";
+var JumpPage="https://dongman7.net";
 
 var newestUrls = [];
 
