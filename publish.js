@@ -42,7 +42,7 @@ var urls=[
 	'souzy1k9.cc',
 ];                                                                                                                  
 
-var JumpPage="https://dongman7.net";
+var JumpPage="https://dongman9.net";
 
 var newestUrls = [];
 
